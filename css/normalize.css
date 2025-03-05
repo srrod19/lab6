@@ -174,9 +174,9 @@ input[type="radio"] {
 }
 
 input[type="search"] {
-    -webkit-appearance: textfield;
+    -webkit-appearance: textfield; 
     -moz-box-sizing: content-box;
-    -webkit-box-sizing: content-box;
+    -webkit-box-sizing: content-box; 
     box-sizing: content-box;
 }
 
